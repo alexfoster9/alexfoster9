@@ -65,7 +65,7 @@
 ### 💾 Работа с данными:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="mysql" alt="mysql" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
