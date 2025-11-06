@@ -97,10 +97,10 @@
   <li><a href="https://github.com/alexfoster9/theory">Теория тестирования</a> – определение методов, типов, уровней тестирования. Анализ макета</li>
   <li><a href="https://github.com/alexfoster9/design">Тест-дизайн</a> – применение техник тест-дизайна</li>
   <li><a href="https://github.com/alexfoster9/docs">Документация</a> – создание чек-листа, тест-кейсов, отчетов о дефекте</li>
-  <li><a href="https://github.com/alexfoster9/web">Тестирование веб-приложений</a> – тест-план, чек-лист, тест-кейсы, тестовый прогон, отчёты о дефекте, перехват трафика</li>
+  <li><a href="https://github.com/alexfoster9/web">Тестирование веб-приложений</a> – тест-план, чек-лист, тест-кейсы, тестовый прогон, отчеты о дефекте, перехват трафика</li>
   <li><a href="https://github.com/alexfoster9/api">Тестирование API</a> – REST и SOAP с помощью Postman</li>
   <li><a href="https://github.com/alexfoster9/database">Работа с базами данных</a> – запросы и упражнения с MySQL и MongoDB</li>
-  <li><a href="https://github.com/alexfoster9/mobile">Тестирование приложений Android</a> – чек-лист, тест-кейсы, баг-репорты, отчёт о тестировании, перехват трафика</li>
+  <li><a href="https://github.com/alexfoster9/mobile">Тестирование приложений Android</a> – чек-лист, тест-кейсы, отчеты о дефекте, отчет о тестировании, перехват трафика</li>
   <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
 </ul>
 
