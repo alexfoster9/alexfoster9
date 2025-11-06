@@ -98,7 +98,7 @@
   <li><a href="https://github.com/alexfoster9/design">Тест-дизайн</a> – применение техник тест-дизайна</li>
   <li><a href="https://github.com/alexfoster9/docs">Документация</a> – создание чек-листа, тест-кейсов, отчетов о дефекте</li>
   <li><a href="https://github.com/alexfoster9/web">Тестирование веб-приложений</a> – создание тест-плана, чек-листа, тест-кейсов, тестового прогона, отчётов о дефекте</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
+  <li><a href="https://github.com/alexfoster9/api">Тестирование API</a> – REST и SOAP с помощью Postman</li>
   <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
   <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
   <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
