@@ -22,8 +22,8 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/0c/Xcode_icon.png/120px-Xcode_icon.png" title="Xcode" alt="Xcode" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="Proxyman" alt="Proxyman" width="40" height="40"/>
+  <!-- <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/> -->
+  <!-- <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="Proxyman" alt="Proxyman" width="40" height="40"/> -->
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" title="MySQL" alt="MySQL" height="40"/>
   <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
